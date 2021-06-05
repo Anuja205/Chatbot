@@ -1,0 +1,2 @@
+rootProject.name='SNDT'
+include ':app'
